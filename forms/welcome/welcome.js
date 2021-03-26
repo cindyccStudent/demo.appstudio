@@ -6,5 +6,5 @@ btnShowMessage.onclick=function(){
 
 
 btnClearMessage.onclick=function(){
-  lblMessage.value = ""
+  lblMessage.value = "Thank you very much!"
 }
