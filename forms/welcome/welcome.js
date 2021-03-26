@@ -4,3 +4,7 @@ btnShowMessage.onclick=function(){
   lblMessage.value = userName
 }
 
+
+btnClearMessage.onclick=function(){
+  lblMessage.value = "Thank you very much!"
+}

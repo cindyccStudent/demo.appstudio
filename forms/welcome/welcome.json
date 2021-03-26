@@ -36,6 +36,15 @@
         "Elements",
         "inptGetName.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "welcome",
+        "Elements",
+        "btnClearMessage.json"
+      ]
     }
   ],
   "class": "",
